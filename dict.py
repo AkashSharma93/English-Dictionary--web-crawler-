@@ -25,7 +25,7 @@ def display(word_obj):
 
 dict = dictionary.Dictionary()
 
-print "\n\nSimple Dictionary v1.0 by Akash Sharma. All credits go to dictionary.com for the words."
+print "\n\nSimple Dictionary v1.0 by Akash Sharma. All credit goes to dictionary.com for the words."
 menu = "\n\n1. Search.\n2. Populate dictionary.\n3. Exit!\n"
 
 while True:
